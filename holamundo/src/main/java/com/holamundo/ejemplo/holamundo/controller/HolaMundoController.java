@@ -8,7 +8,7 @@ public class HolaMundoController {
 
     @GetMapping("/hola")
     public String homaMundo() {
-        //moreno
+        //Fantino
         return "¡Hola Mundo!";
     }
 }
